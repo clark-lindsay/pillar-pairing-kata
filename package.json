@@ -1,0 +1,15 @@
+{
+  "name": "pillar-pairing-kata",
+  "version": "1.0.0",
+  "description": "A place to store and track the work done during my pairing exercise at Pillar Technology on 9-30-2019.",
+  "main": "index.js",
+  "repository": "https://github.com/clark-lindsay/pillar-pairing-kata.git",
+  "author": "clark-lindsay <clarklindsay96@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "eslint-config-prettier": "^6.3.0",
+    "eslint-plugin-prettier": "^3.1.1",
+    "prettier": "^1.18.2"
+  }
+}
